@@ -139,6 +139,6 @@ STATICFILES_DIRS = [
 
 LOGIN_REDIRECT_URL = '/play'
 
-EMAIL_HOST = 'mail.modeln.com'
+EMAIL_HOST = '<>'
 EMAIL_PORT = 25
-DEFAULT_FROM_EMAIL = 'fusion@modeln.com'
+DEFAULT_FROM_EMAIL = '<>'
