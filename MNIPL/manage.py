@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-# This is the main file
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "MNIPL.settings")
 
